@@ -1,0 +1,48 @@
+body , html {
+    margin: 0;
+    padding: 0;
+}
+
+
+img{
+    width: 30%;
+    display: block;
+    margin: 10px auto 29px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    text-align: center;
+
+}
+
+input{
+    width: 60%;
+    margin: 0 auto 10px;
+    display: block;
+    height: 30px;
+    border-radius: 10px;
+}
+label
+{
+   width: 60%;
+    margin: 0 auto 6px;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+   
+}
+
+button{
+     padding: 1Opx;
+     font-size: 16px;
+     margin: 0 auto 29px;
+     display: block;
+     width: 200px;
+     height: 40px;
+     border-radius: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+}
